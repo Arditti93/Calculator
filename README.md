@@ -5,3 +5,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 A react based calculator App with basic CSS styling 
 uses componets to render the keypad and calculate the result of the sum 
 
+## Demo
+![Calculator Demo](cal.gif)
+
